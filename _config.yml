@@ -1,0 +1,15 @@
+title: Tisza Microbe Genomes
+description: Exploring microbial and viral genomics through computational approaches
+theme: jekyll-theme-minimal
+baseurl: ""
+url: ""
+
+# Social/Academic Links
+github_username: mike-tisza
+# Add other social links as needed
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
