@@ -1,11 +1,11 @@
 title: Tisza Genomics Lab
 description: Exploring microbial and viral genomics through computational approaches
 theme: jekyll-theme-minimal
-baseurl: ""
-url: ""
+baseurl: "/tisza-genomics-lab"
+url: "https://mtisza1.github.io"
 
 # Social/Academic Links
-github_username: mike-tisza
+github_username: mtisza1
 # Add other social links as needed
 
 # Build settings
