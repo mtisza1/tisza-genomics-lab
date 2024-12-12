@@ -1,4 +1,4 @@
-# Tisza Microbe Genomes
+# Tisza Genomics Lab
 
 ## The Power of Microbial Genomics
 
