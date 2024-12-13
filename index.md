@@ -5,6 +5,9 @@ title: Home
 
 # Welcome to the Tisza Lab
 
+* TOC 
+{:toc}
+
 ## Advancing Microbial Genomics Research
 
 Our lab focuses on understanding the complex world of microbial and viral genomics through cutting-edge computational approaches and innovative analysis methods.
