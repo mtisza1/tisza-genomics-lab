@@ -5,32 +5,18 @@ title: Home
 
 # Welcome to the Tisza Lab
 
-* TOC 
-{:toc}
+[Publications and Software](publications.md) | [Meet Our Team](members.md) | [Contact Us](contact.md)
 
 ## Advancing Microbial Genomics Research
 
-Our lab focuses on understanding the complex world of microbial and viral genomics through cutting-edge computational approaches and innovative analysis methods.
+Scientists' ability to conduct genomic sequencing on microbes and communities of microbes (metagenomes) has outpaced the ability to understand the meaning of those sequences. However, a deep understanding of genomic features and genomes is necessary to delineate the impact of microbes in health and disease. To accomplish this, we need powerful computation tools that generate testable predictions and the ability to test these predictions in the laboratory. That's where the Tisza Lab comes in.
 
 ### Research Focus Areas
 
-- **Viral Genomics**: Discovering and characterizing novel viruses
-- **Bacterial Pathogenomics**: Understanding pathogen evolution and virulence
-- **Microbiome Analysis**: Exploring host-microbe interactions
-- **Computational Biology**: Developing tools for genomic analysis
+- **Viral Pathogen Genomics**: From swabs to sewage, understanding viral evolution
+- **Bacterial Epigenomics**: Understanding the functional impact of DNA modification in bacteria
+- **Virus Discovery**: Discovering, annotating, and exploiting wild new viruses in and on the human body
 
-### Latest Projects
 
-1. **Viral Discovery Pipeline**
-   - Advanced methods for identifying novel viral sequences
-   - Integration of machine learning approaches
 
-2. **Bacterial Genome Analysis**
-   - Comparative genomics of pathogenic bacteria
-   - Antimicrobial resistance patterns
 
-3. **Microbiome Studies**
-   - Host-microbe interaction analysis
-   - Community dynamics investigation
-
-[View Our Publications](#) | [Join Our Team](#) | [Contact Us](#)

@@ -9,7 +9,9 @@ title: Lab Members
 
 ### Dr. Michael J. Tisza
 Microbial genomics and metagenomics enthusiast
-[Google Scholar](https://scholar.google.com/citations?user=1DikfoxX7f0UH8) | [GitHub](https://github.com/mtisza1)
+
+Favorite Pokemon:
+![raticate](/assets/images/raticate.png)
 
 ## Research Staff
 
