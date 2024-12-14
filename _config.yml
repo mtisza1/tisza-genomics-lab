@@ -4,26 +4,27 @@ theme: jekyll-theme-minimal
 baseurl: "/tisza-genomics-lab"
 url: "https://mtisza1.github.io"
 
-# Social/Academic Links
-github_username: mtisza1
-# Add other social links as needed
-social_links:
-  - github: mtisza1
-  - google_scholar: https://scholar.google.com/citations?user=qvM2fAYAAAAJ&hl=en
-  - twitter: MikeTisza
-  - orcid: 0000-0003-1168-1617
+sidebar:
+  # Social/Academic Links
+  github_username: mtisza1
+  # Add other social links as needed
+  social_links:
+    - github: mtisza1
+    - google_scholar: https://scholar.google.com/citations?user=qvM2fAYAAAAJ&hl=en
+    - twitter: MikeTisza
+    - orcid: 0000-0003-1168-1617
 
-features:
-  - logo: /assets/images/ghost-vir.png
+  features:
+    - logo: /assets/images/ghost-vir.png
 
-colors:
-  - primary: "#D3DDDC"
-  - secondary: "#446455"
+  colors:
+    - primary: "#D3DDDC"
+    - secondary: "#446455"
 
-institution:
-  - name: "Baylor College of Medicine"
-  - department: "Molecular Virology and Microbiology"
-  - location: "Houston, TX, USA"
+  institution:
+    - name: "Baylor College of Medicine"
+    - department: "Molecular Virology and Microbiology"
+    - location: "Houston, TX, USA"
 # Build settings
 markdown: kramdown
 plugins:
