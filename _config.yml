@@ -8,22 +8,22 @@ url: "https://mtisza1.github.io"
 github_username: mtisza1
 # Add other social links as needed
 social_links:
-  github: mtisza1
-  google_scholar: https://scholar.google.com/citations?user=qvM2fAYAAAAJ&hl=en
-  twitter: MikeTisza
-  orcid: 0000-0003-1168-1617
+  - github: mtisza1
+  - google_scholar: https://scholar.google.com/citations?user=qvM2fAYAAAAJ&hl=en
+  - twitter: MikeTisza
+  - orcid: 0000-0003-1168-1617
 
 features:
-  logo: /assets/images/ghost-vir.png
+  - logo: /assets/images/ghost-vir.png
 
 colors:
-  primary: "#D3DDDC"
-  secondary: "#446455"
+  - primary: "#D3DDDC"
+  - secondary: "#446455"
 
 institution:
-  name: "Baylor College of Medicine"
-  department: "Molecular Virology and Microbiology"
-  location: "Houston, TX, USA"
+  - name: "Baylor College of Medicine"
+  - department: "Molecular Virology and Microbiology"
+  - location: "Houston, TX, USA"
 # Build settings
 markdown: kramdown
 plugins:
