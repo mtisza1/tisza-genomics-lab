@@ -7,20 +7,20 @@
 body {
     font-family: 'Helvetica Neue', Arial, sans-serif;
     line-height: 1.6;
-    color: #AF4E24;
-    background: #D3D4D8;
+    color: #0b5ba2;
+    background: #d8d8d3;
 }
 
 h1, h2, h3 {
-    color: #AF4E24;
+    color: #0b5ba2;
     font-weight: 600;
 }
 
 a {
-    color: #AF4E24;
+    color: #0b5ba2;
     transition: color 0.3s ease;
     &:hover {
-        color: darken(#AF4E24, 10%);
+        color: darken(#0b5ba2, 10%);
         text-decoration: none;
     }
 }
@@ -33,7 +33,7 @@ a {
 
 /* Card-like sections */
 .project-card {
-    background: lighten(#D3D4D8, 5%);
+    background: lighten(#d8d8d3, 5%);
     border-radius: 8px;
     padding: 1.5rem;
     margin: 1rem 0;
@@ -49,8 +49,8 @@ a {
     display: inline-block;
     padding: 0.5rem 1rem;
     margin: 0 0.5rem;
-    color: #AF4E24;
+    color: #0b5ba2;
     &:hover {
-        color: darken(#AF4E24, 10%);
+        color: darken(#0b5ba2, 10%);
     }
 }

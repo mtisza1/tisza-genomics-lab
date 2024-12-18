@@ -3,7 +3,7 @@ description: Using microbial and viral genomics to generate and test hypotheses
 remote_theme: pages-themes/minimal@v0.2.0
 baseurl: "/tisza-genomics-lab"
 url: "https://mtisza1.github.io"
-logo: /assets/images/ghost-vir.png
+logo: /assets/images/ghostvir.png
 
 # Social Links
 github:
