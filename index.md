@@ -14,9 +14,7 @@ Scientists' ability to conduct genomic sequencing on microbes and communities of
 ### Research Focus Areas
 
 - **Viral Pathogen Genomics**: From swabs to sewage, understanding viral evolution
-<p align="center">
-  <img src="/assets/images/ww_virome1.png" width="300">
-</p>
+<img src="/assets/images/ww_virome1.png" width="300" style="display:block;margin:0 auto">
 
 - **Bacterial Epigenomics**: Understanding the functional impact of DNA modification in bacteria
 <p align="center">

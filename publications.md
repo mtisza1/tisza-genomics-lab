@@ -28,9 +28,9 @@ title: Publications and Software
 ## Preprints
 - Buck CB, Welch N, Belford AK, Varsani A, Pastrana DV, **Tisza MJ**, Starrett GJ. [Widespread Horizontal Gene Transfer Among Animal Viruses](https://doi.org/10.1101/2024.03.25.586562). *bioRxiv* [Preprint]. 2024 Mar 26:2024.03.25.586562. PMID: 38712252.
 
-## Software and Resources
-- [Cenote-Taker3](https://github.com/mtisza1/Cenote-Taker3)
-- [EsViritu](https://github.com/cmmr/EsViritu)
-- [Marker-MAGu](https://github.com/cmmr/Marker-MAGu)
-- [iav_serotype](https://github.com/mtisza1/influenza_a_serotype)
-- [DNA_methylase_finder](https://github.com/mtisza1/DNA_methylase_finder)
+## Bioinformatics Software
+- [**Cenote-Taker 3**](https://github.com/mtisza1/Cenote-Taker3) - Discover and annotate the virome
+- [**EsViritu**](https://github.com/cmmr/EsViritu) - Measure and reassemble virus pathogens from metagenomes
+- [**Marker-MAGu**](https://github.com/cmmr/Marker-MAGu) - Profile bacteria and phages in metagenomes using marker genes
+- [**iav_serotype**](https://github.com/mtisza1/influenza_a_serotype) - Classify metagenomic reads into Influenza A serotypes
+- [**DNA_methylase_finder**](https://github.com/mtisza1/DNA_methylase_finder) - Identify bacterialDNA methylases and predict motif specificity
