@@ -7,20 +7,20 @@
 body {
     font-family: 'Helvetica Neue', Arial, sans-serif;
     line-height: 1.6;
-    color: #CB7A5C;
+    color: #AF4E24;
     background: #D3D4D8;
 }
 
 h1, h2, h3 {
-    color: #CB7A5C;
+    color: #AF4E24;
     font-weight: 600;
 }
 
 a {
-    color: #CB7A5C;
+    color: #AF4E24;
     transition: color 0.3s ease;
     &:hover {
-        color: darken(#CB7A5C, 10%);
+        color: darken(#AF4E24, 10%);
         text-decoration: none;
     }
 }
@@ -49,8 +49,8 @@ a {
     display: inline-block;
     padding: 0.5rem 1rem;
     margin: 0 0.5rem;
-    color: #CB7A5C;
+    color: #AF4E24;
     &:hover {
-        color: darken(#CB7A5C, 10%);
+        color: darken(#AF4E24, 10%);
     }
 }
