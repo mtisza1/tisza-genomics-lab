@@ -3,24 +3,24 @@
 
 @import "{{ site.theme }}";
 
-/* Modern, high-tech theme customizations */
+/* Custom theme colors */
 body {
     font-family: 'Helvetica Neue', Arial, sans-serif;
     line-height: 1.6;
-    color: #333;
-    background: #f8f9fa;
+    color: #CB7A5C;
+    background: #D3D4D8;
 }
 
 h1, h2, h3 {
-    color: #2c3e50;
+    color: #CB7A5C;
     font-weight: 600;
 }
 
 a {
-    color: #3498db;
+    color: #CB7A5C;
     transition: color 0.3s ease;
     &:hover {
-        color: #2980b9;
+        color: darken(#CB7A5C, 10%);
         text-decoration: none;
     }
 }
@@ -33,7 +33,7 @@ a {
 
 /* Card-like sections */
 .project-card {
-    background: white;
+    background: lighten(#D3D4D8, 5%);
     border-radius: 8px;
     padding: 1.5rem;
     margin: 1rem 0;
@@ -49,8 +49,8 @@ a {
     display: inline-block;
     padding: 0.5rem 1rem;
     margin: 0 0.5rem;
-    border-radius: 4px;
+    color: #CB7A5C;
     &:hover {
-        background: #e9ecef;
+        color: darken(#CB7A5C, 10%);
     }
 }

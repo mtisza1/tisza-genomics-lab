@@ -5,6 +5,8 @@ title: Lab Members
 
 # Lab Members
 
+[Publications and Software](publications.md) | [Meet Our Team](members.md) | [Contact Us](contact.md) | [Home](index.md)
+
 ## Principal Investigator
 
 ### Dr. Michael J. Tisza

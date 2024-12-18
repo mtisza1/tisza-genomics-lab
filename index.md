@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to the Tisza Lab
 
-[Publications and Software](publications.md) | [Meet Our Team](members.md) | [Contact Us](contact.md)
+[Publications and Software](publications.md) | [Meet Our Team](members.md) | [Contact Us](contact.md) | [Home](index.md)
 
 ## Advancing Microbial Genomics Research
 
